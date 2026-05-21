@@ -84,14 +84,9 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Kingice97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingice97&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF" alt="GitHub Streak" height="180" />
   
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingice97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" />
-
 </div>
 
 ---
