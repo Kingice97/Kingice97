@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://your-portfolio.vercel.app" target="_blank">
+<a href="https://olubiyi-isaac.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-3B82F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" />
 </a>
 <a href="mailto:olubiyiisaacanu@gmail.com">
@@ -214,7 +214,7 @@
 <a href="https://github.com/Kingice97" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://your-portfolio.vercel.app" target="_blank">
+<a href="https://olubiyi-isaac.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -226,6 +226,8 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/Kingice97/Kingice97/output/snake.svg" alt="Snake animation" />
 
 ---
 
