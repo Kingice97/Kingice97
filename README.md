@@ -193,7 +193,7 @@
 
 <div align="center">
   
-![Snake animation](https://github.com/Kingice97/Kingice97/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://kingice97.github.io/Kingice97/github-snake-dark.svg)
 
 </div>
 
