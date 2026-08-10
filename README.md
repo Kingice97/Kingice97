@@ -88,20 +88,17 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<a href="https://github.com/Kingice97">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingice97&show_icons=true&hide=stars&count_private=true&theme=default&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" height="170" />
-</a>
-<a href="https://github.com/Kingice97">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingice97&theme=dark&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" height="170" />
-</a>
+
+| 📈 Metric | 🔢 Value |
+|:---:|:---:|
+| 📦 Repositories | **10+** |
+| 🚀 Projects Deployed | **5+** |
+| 💻 Languages | **JavaScript, Python** |
+| ⚡ Current Streak | **Active Developer** |
 
 <br/>
-<br/>
 
-<a href="https://github.com/Kingice97">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingice97&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&border_radius=10" alt="Top Languages" />
-</a>
+*Stats powered by consistent coding and continuous learning*
 
 </div>
 
