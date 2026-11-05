@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Olubiyi Isaac Anu
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineer;React+%7C+React+Native+%7C+Node.js;Building+Scalable+Digital+Solutions;Let's+Build+Something+Great!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+%26+Mobile+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+Scalable+Digital+Solutions;Open+to+Opportunities" alt="Typing SVG" />
 
 <br/>
 
@@ -29,10 +29,10 @@
 
 <div align="center">
 
-💻 Full-Stack Developer & Backend Engineer passionate about building modern, scalable web & mobile applications<br/>
-🎯 Focused on creating impactful digital solutions that solve real-world problems<br/>
-⚡ Experienced in React, React Native, Node.js, Express, MongoDB, PostgreSQL, and Redis<br/>
-🌟 Committed to writing clean, maintainable, and efficient code<br/>
+💻 Software Engineer with hands-on experience in scalable web and mobile application development<br/>
+🎯 Focused on clean architecture, performance optimization, and reliable user-focused software<br/>
+⚡ Skilled in React, Next.js, React Native, Flutter, Node.js, NestJS, and TypeScript<br/>
+🌟 Strong problem-solver committed to writing maintainable, production-ready code<br/>
 📍 Based in Nigeria, open to freelance & full-time opportunities
 
 </div>
@@ -53,21 +53,30 @@
 
 <div align="center">
 
-### 💻 Frontend & Mobile
+### 💻 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Database
+### 📱 Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### ⚙️ Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
@@ -88,17 +97,14 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-| 📈 Metric | 🔢 Value |
-|:---:|:---:|
-| 📦 Repositories | **10+** |
-| 🚀 Projects Deployed | **5+** |
-| 💻 Languages | **JavaScript, Python** |
-| ⚡ Current Streak | **Active Developer** |
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Kingice97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingice97&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF" alt="GitHub Streak" height="180" />
 
 <br/>
+<br/>
 
-*Stats powered by consistent coding and continuous learning*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingice97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" />
 
 </div>
 
@@ -119,7 +125,7 @@
   <img src="https://img.shields.io/badge/Source_Code-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="StoreOS Source" />
 </a>
 
-<p>A production-grade enterprise retail management platform for managing multiple stores, inventory, sales, analytics, and operational workflows.</p>
+<p>A production-grade enterprise retail management SaaS platform for managing multiple stores, inventory, sales, analytics, and operational workflows across different branches.</p>
 
 <table>
 <tr>
@@ -140,7 +146,7 @@
 </tr>
 </table>
 
-**Tech:** `React` `Tailwind CSS` `Node.js` `Express` `MongoDB` `JWT` `Redis` `Cloudinary` `Vercel` `Render`
+**Tech:** `React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT` `Redis` `Cloudinary` `Vercel` `Render`
 
 <br/>
 
@@ -169,7 +175,7 @@
 <td>👥 Multiplayer Mode</td>
 </tr>
 <tr>
-<td>🏆 Leaderboard</td>
+<td>🏆 Score Tracking</td>
 <td>📊 Dashboard Interface</td>
 </tr>
 <tr>
@@ -178,7 +184,7 @@
 </tr>
 </table>
 
-**Tech:** `React` `CSS3` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary` `Vercel` `Render`
+**Tech:** `React.js` `CSS3` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `Vercel` `Render`
 
 </div>
 
@@ -190,11 +196,11 @@
 
 | 🎯 Area | 📝 Description |
 |:---:|:---|
-| 💻 **Full-Stack Development** | Building end-to-end web & mobile applications with React, React Native, Node.js, and MongoDB |
-| 🚀 **Freelance Projects** | Delivering custom solutions including e-commerce platforms, landing pages, and business apps |
+| 💻 **Full-Stack Development** | Building end-to-end web & mobile applications with React, Next.js, React Native, Node.js, NestJS, and MongoDB |
+| 📱 **Mobile Development** | Cross-platform mobile apps with React Native, Flutter, and Dart |
 | ⚡ **Backend Engineering** | Designing RESTful APIs, auth systems, RBAC, and database architecture |
 | 🔌 **API Integration** | Seamless third-party service integration and data processing |
-| 📱 **Mobile Development** | Cross-platform mobile apps with React Native |
+| 🔐 **Auth & Security** | JWT authentication, role-based access control, application security |
 | ☁️ **Deployment & DevOps** | Production-ready deployment on Vercel & Render with Git version control |
 
 </div>
@@ -209,6 +215,8 @@
 |:---|:---|
 | N.C.E — Computer Science | Federal College of Education, Abeokuta |
 | Diploma — Software Engineering | SQI College of ICT, Abeokuta |
+
+**Certifications:** Software Engineering Certificate • N.C.E Certificate
 
 </div>
 
@@ -240,6 +248,6 @@
 
 ### 💡 "Turning ideas into powerful digital experiences, one commit at a time."
 
-### © 2026 Olubiyi Isaac Anu • Full-Stack Developer
+### © 2026 Olubiyi Isaac Anu • Software Engineer
 
 </div>
