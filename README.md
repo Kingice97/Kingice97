@@ -98,23 +98,16 @@
 
 <div align="center">
   
-<!-- Streak Stats (This one was already working for you) -->
-<a href="https://github.com/Kingice97">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingice97&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF" alt="GitHub Streak" height="170" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingice97&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF" alt="GitHub Streak" height="170" />
 
 <br/>
 <br/>
 
-<!-- GitHub Stats (Updated URL + Theme to prevent breaking) -->
-<a href="https://github.com/Kingice97">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingice97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats" height="170" />
-</a>
+<!-- Using a reliable mirror for GitHub Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kingice97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats" height="170" />
 
-<!-- Top Languages (Updated URL + Theme) -->
-<a href="https://github.com/Kingice97">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingice97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=6" alt="Top Languages" height="170" />
-</a>
+<!-- Using a reliable mirror for Top Languages -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kingice97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=6" alt="Top Languages" height="170" />
 
 </div>
 
