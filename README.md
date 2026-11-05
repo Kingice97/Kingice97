@@ -98,16 +98,25 @@
 
 <div align="center">
   
+<!-- GitHub Streak (Keep this, it's working) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingice97&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=FFFFFF" alt="GitHub Streak" height="170" />
 
 <br/>
 <br/>
 
-<!-- Using a reliable mirror for GitHub Stats -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kingice97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats" height="170" />
+<!-- Productive Time Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kingice97&theme=tokyonight&utcOffset=1" alt="Productive Time" height="170" />
 
-<!-- Using a reliable mirror for Top Languages -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kingice97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=6" alt="Top Languages" height="170" />
+<!-- Top Languages Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kingice97&theme=tokyonight" alt="Top Languages" height="170" />
+
+<br/>
+<br/>
+
+<!-- Overall Stats Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kingice97&theme=tokyonight" alt="Profile Details" width="100%" />
+
+</div>
 
 </div>
 
